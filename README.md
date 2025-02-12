@@ -2,8 +2,9 @@
 This repository presents a detailed analysis of the MicroClimate dataset, which includes measurements of relative humidity (RH), temperature, and leaf temperature within a greenhouse environment. The analysis aims to explore the fluctuations of environmental conditions throughout the day, assess the adequacy of greenhouse management practices for optimal strawberry production, and examine the variations in climate parameters across different sensor locations within the greenhouse.
 
 Key questions are addressed through advanced visualizations and statistical methods, uncovering insights into the relationship between environmental factors and plant health. This analysis provides valuable information for optimizing greenhouse conditions to enhance plant growth and productivity.
-Below is an example image of EDA performed for Question formation
+Below is two example images of EDA performed for Question formation
 ![Alt text](images/eda.png)
+![Alt text](images/eda2.png)
 
 ## Question 1: Did the levels of RH, temperature, and leaf temperature fluctuate throughout the day in the 'MicroClimate' dataset, and if so, how did these fluctuations manifest?
 
